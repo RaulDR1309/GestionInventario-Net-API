@@ -1,0 +1,6 @@
+@GestionInventario.Api_HostAddress = http://localhost:5217
+
+GET {{GestionInventario.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
