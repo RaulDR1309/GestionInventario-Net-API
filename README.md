@@ -19,3 +19,5 @@ Esta es una API robusta desarrollada con **.NET 8/9** para la gestión de produc
 1. **Clonar el repositorio:**
    ```bash
    git clone [https://github.com/RaulDR1309/GestionInventario-Net-API](https://github.com/RaulDR1309/GestionInventario-Net-API)
+
+   ## 📸 Interfaz de la API : ![Interfaz de Swagger](./swagger-ui.png)
